@@ -22,6 +22,7 @@ index.html            the whole site (one page)
 assets/site.css       all styles
 assets/lightbox.js    photo viewer (<dialog>-based, no dependencies)
 assets/img/           photos, resize variants, and the line-art illustrations
+favicon.ico           favicon for clients that ignore <link rel="icon">
 favicon-32.png        favicon
 apple-touch-icon.png  iOS home-screen icon
 ```

@@ -3,15 +3,14 @@
 :root {
     --g-050: #f3f9ee;
     --g-100: #e6f1dc;
-    --g-200: #cfe6bd;
     --g-300: #a5d48d;
     --g-500: #6f9b4c;
     --g-700: #4a6b33;
     --g-900: #2b3d1e;
 
     --ink: #1d2318;
-    --ink-soft: #4c5545;
-    --muted: #6d7566;
+    --ink-soft: #47503f;
+    --muted: #5f675a;
     --line: #dde5d6;
     --paper: #fdfefb;
 
